@@ -1,4 +1,4 @@
-# YoutubeDownloader
+# PasswordGenerator
 
 
 ## Simple Tkinter Applications
