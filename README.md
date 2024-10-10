@@ -8,7 +8,6 @@ This project involves the development of two separate Python applications using 
 
 Programming Language: Python <br>
 Libraries:<br>
-
 Tkinter: For creating graphical user interfaces.<br>
 random and string: For generating random passwords.<br>
 pyperclip: For copying passwords to the clipboard.<br>
